@@ -17,7 +17,7 @@ permissions: write-all
 jobs:
   runCLI:
     name: Prize Claimer Bot
-    runs-on: ${{ matrix.os }}
+    runs-on: self-hosted
     strategy:
       max-parallel: 1
       matrix:
