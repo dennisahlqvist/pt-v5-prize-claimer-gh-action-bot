@@ -1,4 +1,4 @@
-# PoolTogether v5 Prize Claimer Bot - GitHub Actions
+# PoolTogether v5 Prize Claimer Bot - GitHub Actions.
 
 ### DISCLAIMER: These bots are meant for intermediates & experts to run and modify to their liking. There is a lot of prerequisite knowledge about blockchains, private keys, swaps, and GitHub infrastructure that should be known before running a bot. If anyone ever asks you for your private key _do not give it to them_. Nobody from Generation Software, Pooltime, or PoolTogether will ever ask you for your private key.
 
@@ -15,6 +15,8 @@ You can simply fork this repo, enter your own custom environment variables in yo
 ---
 
 ### Installation:
+
+**NOTE ON NODE VERSIONS: Requires Node 20 or greater**
 
 [<img src="https://github.com/GenerationSoftware/pt-v5-liquidator-gh-action-bot/blob/main/images/video-thumb--new.jpg" width="50%">](https://www.youtube.com/watch?v=Dt-ibfZH-LU "Watch the 1-minute installation video")
 
